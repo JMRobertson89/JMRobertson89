@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ## About Me
-👋 Hi, I’m Josh. After several successful years in customer-facing roles, I decided to pivot into the world of software development, driven by my passion for problem-solving and innovation.
+👋 Hi, I’m Josh. Software developer driven by my passion for problem-solving and innovation.
 
-🔧 I’m currently focused on building my expertise in technologies/languages such as HTML, CSS, JavaScript, REACT, and Node.js. I’m always excited to take on new challenges.
+🔧 I’m currently focused on building my expertise and I’m always excited to take on new challenges.
 
 🌱 I’m continuously learning and working on projects that help me grow as a developer. You can check out some of my latest work below or follow me for future updates!
 
